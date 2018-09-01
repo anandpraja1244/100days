@@ -1,0 +1,89 @@
+<!Doctype html>
+<html>
+  <head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+    <title> my profile</title>
+
+	<h1>WELCOME TO MY PROFILE</h1>
+  </head>
+
+
+  <body>
+	<IMG SRC="imag1.jpg" align="right">
+</div>
+    <h2>Anand kumar prajapati</h2>
+
+	<h3>Profile Summary:</h3>
+<ul>
+<li><h4>Programmer,Smart Worker,Open minded And a Good FriendðŸ™‚</h4></li>
+</ul>
+    <hr>
+
+    
+
+    <h3>Personal Information:</h3>
+    
+      <ul>
+        <li>Father name: Nandlal prajapati</li>
+	<li>Dob: 4 july,1995
+        <li>Religion: Hindu</li>
+     	<li>Nationality: Indian</li>
+        </li>
+      </ul><hr>
+
+      
+    <h3>Education Credentials:</h3>
+    <table>
+    <tr>
+      <th>Name of Degree</th>
+      <th>University</th>
+      <th>Major</th>
+      <th>CGPA</th>
+    </tr>
+    <tr>
+      <td>10th(2011) </td>
+      <td>UP Board</td>
+      <td>Science</td>
+      <td>70%</td>
+    </tr>
+    <tr>
+      <td>12th(2013)</td>
+      <td>UP Board</td>
+      <td>PCM</td>
+      <td>76%%</td>
+    </tr>
+    <tr>
+      <td>Bachelor of computer application(2017)</td>
+      <td>CSJM University</td>
+     
+      <td>55%</td>
+    </tr>
+    
+  </table><hr>
+
+
+	<h3>Programming Language:</h3>
+
+	<ul>
+	<li>c
+	<li>Java script</li>
+	<li>HTML</li>
+	</ul>
+	<hr>
+  <h3> Projects:</h3>
+  <h4>SDBMS</h4>
+
+  
+  <hr>
+	<h3>Hobbies:</h3>
+	<ul>
+	<li>Playing Cricket</li>
+	<li>Listing Music</li>
+	
+	</ul><hr>
+
+  </body>
+
+
+</html>
+
