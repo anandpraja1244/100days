@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        h1{
+            color:green;
+        }
+        p{
+            color:rad;
+        }
+    </style>
+<h1>anand</h1>
+    
+<p> in a kiet student</p>
+    
+</html>
